@@ -1,11 +1,18 @@
 {
-  "username": "Jenesyx",
-  "name": "Arta Bidkhori",
-  "wordmark": "ARTA",
-  "role": "Full-stack developer · AI automation builder",
-  "location": "Germany · from Tehran",
-  "status": "Building products, agents and memorable digital experiences.",
-  "website": "https://artabidkhori.com",
+  "username": "saeidbjnn",
+  "name": "Saeid",
+  "wordmark": "SAEID",
+  "role": "Chemical Engineer · Website Developer · Freelancer",
+  "location": "Iran",
+  "status": "We are a complete team for freelance work.",
+  "website": "https://appkhor.ir",
   "photo": "assets/profile-source.png",
-  "skills": ["Next.js", "TypeScript", "Python", "n8n", "Figma", "Solidity"]
+  "skills": [
+    "JavaScript",
+    "Python",
+    "Web Development",
+    "App Development",
+    "Coding",
+    "Chemical Engineering"
+  ]
 }
