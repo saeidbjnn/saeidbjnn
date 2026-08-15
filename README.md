@@ -24,6 +24,14 @@
   <img src="https://img.shields.io/badge/INSTAGRAM-9b6cff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071416" alt="Instagram" />
 </a>
 
+<a href="https://t.me/saeidbararjanian">
+  <img src="https://img.shields.io/badge/TELEGRAM-4387ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=071416" alt="Telegram" />
+</a>
+
+<a href="mailto:saeid.bararjanian@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-43ead3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=071416" alt="Email" />
+</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=saeidbjnn&color=43ead3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -41,9 +49,7 @@ Chemical Engineer · Website Developer · Freelancer
 
 <h2>⚡ Skills & Tools</h2>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,windows&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,windows&theme=dark" />
 
 <br><br>
 
@@ -54,17 +60,15 @@ Chemical Engineer · Website Developer · Freelancer
 
 <br><br>
 
-<h2>🚀 Featured Project</h2>
+<h2>🚀 Current Project</h2>
 
-<a href="https://github.com/saeidbjnn/wsdf">
-  <img height="140"
-       src="https://github-stats-extended.vercel.app/api/pin/?username=saeidbjnn&repo=wsdf&bg_color=071416&title_color=43ead3&text_color=dcfff7&icon_color=4387ff&border_color=43ead3" />
-</a>
+<strong>AppKhor</strong><br>
+<sub>Currently under development — launching soon.</sub>
 
 <br><br>
 
 <a href="https://appkhor.ir">
-  <img src="https://img.shields.io/badge/APPKHOR.IR-VISIT%20WEBSITE-43ead3?style=for-the-badge&labelColor=071416" />
+  <img src="https://img.shields.io/badge/APPKHOR.IR-COMING%20SOON-43ead3?style=for-the-badge&labelColor=071416" />
 </a>
 
 <br><br>
