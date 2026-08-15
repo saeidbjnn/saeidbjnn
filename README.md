@@ -13,16 +13,20 @@
 <br><br>
 
 <a href="https://appkhor.ir">
-  <img src="https://img.shields.io/badge/WEBSITE-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Website" />
+  <img src="https://img.shields.io/badge/WEBSITE-43ead3?style=for-the-badge&labelColor=071416" alt="Website" />
 </a>
 
 <a href="https://github.com/saeidbjnn">
-  <img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=white&labelColor=071416" alt="GitHub" />
 </a>
 
 <a href="https://instagram.com/saeidbararjanian">
   <img src="https://img.shields.io/badge/INSTAGRAM-9b6cff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=071416" alt="Instagram" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=saeidbjnn&color=43ead3&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br><br>
 
@@ -32,3 +36,39 @@ Chemical Engineer · Website Developer · Freelancer
 <br>
 
 <sub>Building websites, apps and freelance projects from Iran 🇮🇷</sub>
+
+<br><br>
+
+<h2>⚡ Skills & Tools</h2>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,vscode,windows&theme=dark" />
+</a>
+
+<br><br>
+
+<h2>📊 GitHub Stats</h2>
+
+<img height="180"
+     src="https://github-stats-extended.vercel.app/api?username=saeidbjnn&show_icons=true&bg_color=071416&title_color=43ead3&text_color=dcfff7&icon_color=4387ff&border_color=43ead3" />
+
+<br><br>
+
+<h2>🚀 Featured Project</h2>
+
+<a href="https://github.com/saeidbjnn/wsdf">
+  <img height="140"
+       src="https://github-stats-extended.vercel.app/api/pin/?username=saeidbjnn&repo=wsdf&bg_color=071416&title_color=43ead3&text_color=dcfff7&icon_color=4387ff&border_color=43ead3" />
+</a>
+
+<br><br>
+
+<a href="https://appkhor.ir">
+  <img src="https://img.shields.io/badge/APPKHOR.IR-VISIT%20WEBSITE-43ead3?style=for-the-badge&labelColor=071416" />
+</a>
+
+<br><br>
+
+<sub>⚡ SAEID · Engineering · Development · Freelance</sub>
+
+</div>
